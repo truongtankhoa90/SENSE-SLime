@@ -13,7 +13,7 @@ The approach uses LASSO to identify relevant features and then evaluates their *
 
 The core steps of SENSE-SLIME are illustrated below:
 
-![SENSE Workflow](./assets/sense_workflow.png)
+![SENSE Workflow](./mainflow.png)
 
 ## Installation
 

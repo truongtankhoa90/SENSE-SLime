@@ -1,11 +1,11 @@
 
 # SENSE-SLIME
 
-A robust feature selection enhancement method for interpretable machine learning using **Sign Entropy-based Stable Explanation (SENSE)** applied to **LIME/SLIME**-like explanation frameworks.
+A robust feature selection enhancement method for interpretable machine learning using **Stratified Sampling and Sign Entropy-based Stable Explanation (SENSE)** applied to **LIME/SLIME**-like explanation frameworks.
 
 ## Overview
 
-SENSE-SLIME is an extension of SLIME (Supervised Local Interpretable Model-agnostic Explanations), introducing a feature selection strategy based on **sign entropy** to filter out unstable features.
+SENSE-SLIME is an extension of SLIME (Supervised Local Interpretable Model-agnostic Explanations), introducing a feature selection strategy based on **stratified sampling & sign entropy** to filter out unstable features.
 
 The approach uses LASSO to identify relevant features and then evaluates their **stability** using entropy of sign distributions across different runs.
 

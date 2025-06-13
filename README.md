@@ -22,6 +22,8 @@ git clone https://github.com/truongtankhoa90/SENSE-SLime.git
 cd SENSE-SLime
 pip install -r requirements.txt
 ```
+## Stratified Sampling Strategy
+![Strata Sampling](./binom-shapley.png)
 
 ## Results
 ![Result1](./explain2.png)

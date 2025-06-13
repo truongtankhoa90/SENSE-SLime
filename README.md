@@ -15,13 +15,6 @@ The framework of SENSE-SLIME are illustrated below:
 
 <img src="./mf.png" width="300" height="400" />
 
-## Installation
-
-```bash
-git clone https://github.com/truongtankhoa90/SENSE-SLime.git
-cd SENSE-SLime
-pip install -r requirements.txt
-```
 ## Stratified Sampling Strategy
 ![Strata Sampling](./binom-shapley.png)
 
@@ -30,6 +23,13 @@ pip install -r requirements.txt
 
 ![Result2](./cmp2.png)
 
+## Installation
+
+```bash
+git clone https://github.com/truongtankhoa90/SENSE-SLime.git
+cd SENSE-SLime
+pip install -r requirements.txt
+```
 
 ## Requirements
 

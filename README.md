@@ -24,7 +24,8 @@ pip install -r requirements.txt
 ```
 
 ## Results
-![Result1](./explain2.png)
+![Result1]
+<img src="./explain2.png" width="300" height="400" />
 ![Result2](./cmp2.png)
 
 

@@ -23,7 +23,9 @@ cd SENSE-SLime
 pip install -r requirements.txt
 ```
 
-## Usage
+## Result
+![Result1](./cmp1.png)
+![Result2](./cmp2.png)
 
 
 ## Requirements

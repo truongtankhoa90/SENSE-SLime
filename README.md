@@ -15,7 +15,7 @@ The framework of SENSE-SLIME are illustrated below:
 
 <img src="./mf.png" width="300" height="400" />
 
-## Stratified Sampling Strategy
+## Sampling Strategy
 ![Strata Sampling](./binom-shapley.png)
 
 ## Results

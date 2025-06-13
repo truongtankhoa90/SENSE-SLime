@@ -13,7 +13,8 @@ The approach uses LASSO to identify relevant features and then evaluates their *
 
 The core steps of SENSE-SLIME are illustrated below:
 
-![SENSE Workflow](./mf.png)
+![SENSE Workflow]
+<img src="./mf.png" width="300" height="400" />
 
 ## Installation
 
@@ -24,8 +25,8 @@ pip install -r requirements.txt
 ```
 
 ## Results
-![Result1]
-<img src="./explain2.png" width="300" height="400" />
+![Result1](./explain2.png)
+
 ![Result2](./cmp2.png)
 
 

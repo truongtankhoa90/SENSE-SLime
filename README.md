@@ -11,7 +11,7 @@ The approach uses LASSO to identify relevant features and then evaluates their *
 
 ### Methodology
 
-The core steps of SENSE-SLIME are illustrated below:
+The framework of SENSE-SLIME are illustrated below:
 
 ![SENSE Workflow]
 <img src="./mf.png" width="300" height="400" />
